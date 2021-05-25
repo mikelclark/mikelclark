@@ -1,4 +1,4 @@
-- Hey 👋 I'm Mikel Clark -- which is pronounced mai·kl, not mai·kell fyi.
+- Hey 👋 Mikel Clark here (it's pronounced Michael).
 - Currently learning front end web development. I know the essentials, but I'm diving more in-depth. 💪
 - 🤝 Don't hesitate to reach out to me via email: darianclark97@gmail.com
 <!---
